@@ -1,6 +1,6 @@
 # pokedexteste
 
-## Downgrade your sass-loader file
+## Downgrade your sass-loader file to 10 version
 
 npm i sass
 
