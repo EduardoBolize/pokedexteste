@@ -1,5 +1,13 @@
 # pokedexteste
 
+## Downgrade your sass-loader file
+
+npm i sass
+
+npm i sass-loader@10 
+
+npm i
+
 ## Project setup
 ```
 npm install
@@ -22,3 +30,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
