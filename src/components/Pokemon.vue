@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>Pokemon's</h1>
+    <h1>Lista de Pokemons de Eduardo Bolize</h1>
     <PokemonSearch 
       :apiUrl="apiUrl" 
       @setPokemonUrl="setPokemonUrl" />
@@ -59,12 +59,12 @@
     padding: 10px;
     width: calc(100% - 20px);
     min-height: calc(100vh - 20px);
-    background: radial-gradient(#156F99, #0A2E50);
+    background: rgb(13, 129, 129);
 
     font-family: 'Acme', arial;
     font-size: 1rem;
     font-weight: normal;
   }
 
-  h1 { color: #efefef; }
+  h1 { color: #242020; }
 </style>
